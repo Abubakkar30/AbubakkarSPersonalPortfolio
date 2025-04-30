@@ -1,0 +1,12 @@
+.banner {
+    background-image: url(bgpf2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.skills-padding {
+    padding: 70px 0;
+}
